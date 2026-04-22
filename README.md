@@ -8,7 +8,7 @@
 <h2 align="center">👨‍💻 About Me 👨‍💻</h2>
 <!-- <img align="right" width="250" alt="Coding" src="https://github.com/BittuBarnwal7479/BittuBarnwal7479/assets/143955797/3ac3278b-8a5e-46f1-9f9e-c01e3ee3874a" /> -->
 <p align="left">🌟 Full-Stack Developer focused on building clean, scalable, and interactive web applications</p>
-<p align="left">🎯 Intern @ Vaysolar | (Ashoka) Hackathon project</p>
+<p align="left">🎯 Intern @ Vaysolar — real-world problem solving
 <p align="left">💡 Obsessed with optimization — from runtime to design patterns</p>
 <p align="left">♟️ Chess player | Problem solver | Team leader</p>
 <p align="left">🚀 Contributor @palisadoes foundation — Working on Talawa Admin and API</p>
