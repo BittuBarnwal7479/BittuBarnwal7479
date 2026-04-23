@@ -23,7 +23,7 @@
 
 It reflects my early open-source work and consistency over time:
 
-👉 **https://github.com/BittuBarnwal7479**
+👉 **https://github.com/Bittukr7479**
 
 ---
 
