@@ -16,6 +16,17 @@
 
 ---
 
+### Previous GitHub Journey
+
+🚀 I previously contributed using another GitHub account  
+(currently inaccessible due to 2FA).
+
+It reflects my early open-source work and consistency over time:
+
+👉 **https://github.com/BittuBarnwal7479**
+
+---
+
 <!-- Social Links -->
 <h3 align="center">🌐 Let's Connect:</h3>
 
