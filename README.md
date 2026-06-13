@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=Bittukr7479&label=Profile%20views&color=yellow&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=BittuBarnwal7479&label=Profile%20views&color=yellow&style=flat)
 
 <!-- Profile Header -->
 <h4 align="center">🚀 Welcome to My GitHub Universe! 🚀</h4>
