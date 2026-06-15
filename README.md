@@ -18,8 +18,8 @@
 
 ### Previous GitHub Journey
 
-🚀 I previously contributed using another GitHub account  
-(currently inaccessible due to 2FA).
+<h2>🚀 I previously contributed using another GitHub account  
+(currently inaccessible due to 2FA).</h2>
 
 It reflects my early open-source work and consistency over time:
 
