@@ -38,33 +38,6 @@ Building scalable web applications, software, contributing to open-source projec
 
 ---
 
-## 📊 Open Source Highlights
-
-✅ Contributed across multiple open-source organizations and projects
-
-✅ Experience with:
-
-* React
-* TypeScript
-* JavaScript
-* Node.js
-* Express.js
-* MongoDB
-* PostgreSQL
-* Material UI
-* Git & GitHub
-
-✅ Contributions include:
-
-* Bug Fixes
-* Feature Development
-* Documentation Improvements
-* UI/UX Enhancements
-* Testing & Quality Improvements
-* Community Support
-
----
-
 ## 🚀 Featured Projects
 
 ### ☀️ Solar Customer Portal
@@ -80,7 +53,7 @@ Contributed to multiple projects by fixing issues, implementing features, improv
 ## 🔭 Current Focus
 
 * Open Source Contributions
-* React, TypeScript & Python
+* Building Software
 * Full Stack Development
 * Cloud Native Technologies
 * Amazon web service
