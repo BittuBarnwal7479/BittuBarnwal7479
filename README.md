@@ -14,9 +14,11 @@ Building scalable web applications, software, contributing to open-source projec
 Open to Sponsorships • Internships • Full-Time Roles • Freelance Opportunities • Collaborations
 </p>
 
-<p align="center">
-☕ Support my work: https://ko-fi.com/bittubarnwal7479
-</p>
+<h3 align="center">
+  <a href="https://ko-fi.com/bittubarnwal7479">
+    ☕ Support my work on Ko-fi
+  </a>
+</h3>
 
 ---
 
