@@ -30,7 +30,7 @@ Building scalable web applications, software, contributing to open-source projec
 
 🏆 I enjoy shipping features, fixing bugs, improving documentation, and helping communities grow.
 
-♟️ [Chess Player] • Problem Solver • Continuous Learner
+♟️ [Chess Player](https://www.chess.com/member/bittubarnwal7479) • Problem Solver • Continuous Learner
 
 📚 B.Tech in Computer Science & Engineering
 
