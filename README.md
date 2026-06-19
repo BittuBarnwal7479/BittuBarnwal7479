@@ -1,87 +1,192 @@
-![Profile Views](https://komarev.com/ghpvc/?username=BittuBarnwal7479&label=Profile%20views&color=yellow&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=BittuBarnwal7479\&label=Profile%20Views\&color=yellow\&style=flat)
 
-<!-- Profile Header -->
-<h4 align="center">🚀 Welcome to My GitHub Universe! 🚀</h4>
-<h2 align="center">👋 I'm Bittu — a Full-Stack Developer, Open-Source Contributor & Tech Explorer from India 🇮🇳</h2>
+<h1 align="center">Hi 👋, I'm Bittu Kumar</h1>
 
-<!-- About Me Section -->
-<h2 align="center">👨‍💻 About Me 👨‍💻</h2>
-<!-- <img align="right" width="250" alt="Coding" src="https://github.com/BittuBarnwal7479/BittuBarnwal7479/assets/143955797/3ac3278b-8a5e-46f1-9f9e-c01e3ee3874a" /> -->
-<p align="left">🌟 Full-Stack Developer focused on building clean, scalable, and interactive web applications</p>
-<p align="left">🎯 Intern @ Vaysolar — real-world problem solving
-<p align="left">💡 Obsessed with optimization — from runtime to design patterns</p>
-<p align="left">♟️ Chess player | Problem solver | Team leader</p>
-<p align="left">🚀 Contributor @palisadoes foundation — Working on Talawa Admin and API</p>
-<p align="left">📫 Reach me at <strong>kumarbittuu26@gmail.com</strong></p>
+<h3 align="center">
+Open Source Contributor • Full Stack Developer • Software Engineer
+</h3>
 
----
-
-### Previous GitHub Journey
-
-<h2>🚀 I previously contributed using another GitHub account  
-(currently inaccessible due to 2FA).</h2>
-
-It reflects my early open-source work and consistency over time:
-
-👉 **https://github.com/Bittukr7479**
-
----
-
-<!-- Social Links -->
-<h3 align="center">🌐 Let's Connect:</h3>
-
-<div align="center">
-<a href="https://twitter.com/bittuku51471147" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30"/></a>
-<a href="https://www.linkedin.com/in/bittukr7479" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/></a>
-<a href="https://stackoverflow.com/users/23372026/bittu-kumar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30"/></a>
-<a href="https://fb.com/your-id" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30"/></a>
-<a href="https://instagram.com/your-id" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/></a>
-<a href="https://www.hackerearth.com/your-id" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" height="30"/></a>
-<a href="https://discord.gg/kumar_bittu" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30"/></a>
-</div>
-
----
-
-<!-- Tech Stack -->
-<h2 align="center">📚 My Stack</h2>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,materialui,tailwind,bootstrap" />
-</div>
-
-<h2 align="center">⚙️ Backend</h2>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,mongo,postgres,mysql,python,flask,django" />
-</div>
-
-<h2 align="center">🛠️ Tools & Technologies</h2>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
-</div>
-
----
-
-<!-- GitHub Stats -->
-<h2 align="center">📈 GitHub Stats</h2>
-<div align="center">
-  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=BittuBarnwal7479&count_private=true&theme=react&border_radius=10" />
-  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=BittuBarnwal7479&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
-  <br />
-  <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=BittuBarnwal7479&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" />
-</div>
-
----
-
-<!-- Contribution Snake -->
-<h2 align="center">🐍 My Contributions</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation of contributions" />
+Building scalable web applications, software, contributing to open-source projects, and learning in public.
+</p>
+
+<p align="center">
+⭐ Open to Sponsorships • Internships • Full-Time Roles • Freelance Opportunities • Collaborations
 </p>
 
 ---
 
-<!-- Goodbye Message -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Thanks+for+visiting!+💖;Let's+Connect+and+Build+Together!+🚀;" />
-</h1>
-<br/>💙 I contribute to open-source projects. <br/>
-If my work helps you, you can support me via GitHub <b>Sponsors</b>.
+## 👨‍💻 About Me
+
+🚀 Passionate Full Stack Developer focused on building clean, scalable, and user-friendly applications.
+
+💼 Looking for Full-Time Software Engineer, Full Stack Developer, and Open Source opportunities.
+
+🤝 Open to collaborating with startups, product companies, and open-source organizations.
+
+🌱 Active Open Source Contributor contributing to projects such as The Palisadoes Foundation, hatchet-dev, npmx, Tresjs, Light-Heart-Labs and more.
+
+🎯 Strong interest in n8n automation, Full Stack Engineering, Developer Tools, Cloud Native Technologies, and Open Source Infrastructure.
+
+🏆 I enjoy shipping features, fixing bugs, improving documentation, and helping communities grow.
+
+♟️ [Chess Player] • Problem Solver • Continuous Learner
+
+📚 B.Tech in Computer Science & Engineering
+
+📫 Email: **[kumarbittuu26@gmail.com](mailto:kumarbittuu26@gmail.com)**
+
+---
+
+## 📊 Open Source Highlights
+
+✅ Contributed across multiple open-source organizations and projects
+
+✅ Experience with:
+
+* React
+* TypeScript
+* JavaScript
+* Node.js
+* Express.js
+* MongoDB
+* PostgreSQL
+* Material UI
+* Git & GitHub
+
+✅ Contributions include:
+
+* Bug Fixes
+* Feature Development
+* Documentation Improvements
+* UI/UX Enhancements
+* Testing & Quality Improvements
+* Community Support
+
+---
+
+## 🚀 Featured Projects
+
+### ☀️ Solar Customer Portal
+
+Built customer-facing dashboards and UI components using React and Material UI for solar energy management and analytics.
+
+### 🌍 Open Source Contributions
+
+Contributed to multiple projects by fixing issues, implementing features, improving documentation, and enhancing developer experience.
+
+---
+
+## 🔭 Current Focus
+
+* Open Source Contributions
+* React, TypeScript & Python
+* Full Stack Development
+* Cloud Native Technologies
+* Amazon web service
+* Developer Tooling
+
+---
+
+## 🚀 Previous GitHub Journey
+
+I previously contributed using another GitHub account that is currently inaccessible due to 2FA issues.
+
+It still reflects my earlier open-source contributions and learning journey:
+
+👉 https://github.com/Bittukr7479
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/bittukr7479" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="https://twitter.com/bittuku51471147" target="_blank">
+<img src="https://skillicons.dev/icons?i=twitter" height="45"/>
+</a>
+
+<a href="mailto:kumarbittuu26@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+<a href="https://github.com/BittuBarnwal7479">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+</div>
+
+---
+
+## 🛠️ Frontend Technologies
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,materialui,tailwind,bootstrap" />
+</p>
+
+---
+
+## ⚙️ Backend & Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,python,django" />
+</p>
+
+---
+
+## 🔧 Tools & Platforms
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm,docker" />
+</p>
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+<img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=BittuBarnwal7479&count_private=true&theme=react&border_radius=10" />
+
+<img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=BittuBarnwal7479&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
+</p>
+
+<p align="center">
+<img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=BittuBarnwal7479&layout=compact&theme=react&border_radius=10" />
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</p>
+
+---
+
+## ☕ Support My Open Source Work
+
+I spend a significant portion of my free time contributing to open-source projects, improving documentation, fixing bugs, building features, and helping developer communities grow.
+
+If my work has helped you, consider supporting my open-source journey through GitHub Sponsors or other sponsorship platforms.
+
+Your support helps me:
+
+* 🚀 Contribute more to Open Source
+* 📚 Learn New Technologies
+* 🛠️ Build Useful Developer Tools
+* 🤝 Support Developer Communities
+
+---
+
+<h2 align="center">🚀 Building • Learning • Contributing</h2>
+
+<h3 align="center">Thanks for visiting my profile ❤️</h3>
+
+<p align="center">
+Let's build something amazing together.
+</p>
