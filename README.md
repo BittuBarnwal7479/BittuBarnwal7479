@@ -77,30 +77,6 @@ It still reflects my earlier open-source contributions and learning journey:
 
 ---
 
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/bittukr7479" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="https://twitter.com/bittuku51471147" target="_blank">
-<img src="https://skillicons.dev/icons?i=twitter" height="45"/>
-</a>
-
-<a href="mailto:kumarbittuu26@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-
-<a href="https://github.com/BittuBarnwal7479">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
-</div>
-
----
-
 ## 🛠️ Frontend Technologies
 
 <p align="center">
