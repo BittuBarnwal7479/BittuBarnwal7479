@@ -11,7 +11,11 @@ Building scalable web applications, software, contributing to open-source projec
 </p>
 
 <p align="center">
-⭐ Open to Sponsorships • Internships • Full-Time Roles • Freelance Opportunities • Collaborations
+Open to Sponsorships • Internships • Full-Time Roles • Freelance Opportunities • Collaborations
+</p>
+
+<p align="center">
+☕ Support my work: https://ko-fi.com/bittubarnwal7479
 </p>
 
 ---
@@ -143,9 +147,11 @@ It still reflects my earlier open-source contributions and learning journey:
 
 ## ☕ Support My Open Source Work
 
-I spend a significant portion of my free time contributing to open-source projects, improving documentation, fixing bugs, building features, and helping developer communities grow.
+I actively contribute to open-source projects by building features, fixing bugs, improving documentation, and helping developer communities grow.
 
-If my work has helped you, consider supporting my open-source journey through GitHub Sponsors or other sponsorship platforms.
+If my contributions or projects have helped you, consider supporting my work:
+
+🔗 Ko-fi: https://ko-fi.com/bittubarnwal7479
 
 Your support helps me:
 
