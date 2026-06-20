@@ -104,13 +104,14 @@ While I actively contribute through this account now, my earlier contributions a
 <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=BittuBarnwal7479&layout=compact&theme=react&border_radius=10" />
 </p> -->
 
+<!--
 ---
 
 ## 🐍 Contribution Graph
-
-<p align="center">
+-->
+<!-- <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</p>
+</p> -->
 
 ---
 
