@@ -3,100 +3,88 @@
 <h1 align="center">Hi 👋, I'm Bittu Kumar</h1>
 
 <h3 align="center">
-Open Source Contributor • Full Stack Developer • Software Engineer
+Open Source Contributor • Full Stack Developer • Cloud Enthusiast
 </h3>
 
 <p align="center">
-Building scalable web applications, software, contributing to open-source projects, and learning in public.
+Building scalable web applications, contributing to open source, and learning in public.
 </p>
 
 <p align="center">
-Open to Sponsorships • Internships • Full-Time Roles • Freelance Opportunities • Collaborations
+Open to Internships • Full-Time Roles • Open Source Opportunities • Collaborations
 </p>
 
-<h3 align="center">Support My Open Source Work</h3>
-
 <p align="center">
-  <a href="https://ko-fi.com/bittubarnwal7479" target="_blank">
+  <a href="https://ko-fi.com/bittubarnwal7479">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" />
   </a>
 </p>
-
 
 ---
 
 ## 👨‍💻 About Me
 
-🚀 Passionate Full Stack Developer focused on building clean, scalable, and user-friendly applications.
+🚀 Full Stack Developer passionate about building scalable and user-friendly applications.
 
-💼 Looking for Full-Time Software Engineer, Full Stack Developer, and Open Source opportunities.
+💻 Currently building web applications and contributing to open-source projects.
 
-🤝 Open to collaborating with startups, product companies, and open-source organizations.
+🌱 Active Open Source Contributor contributing to projects such as The Palisadoes Foundation, hatchet-dev, npmx, TresJS, Light-Heart-Labs, and more.
 
-🌱 Active Open Source Contributor contributing to projects such as The Palisadoes Foundation, hatchet-dev, npmx, Tresjs, Light-Heart-Labs and more.
+💼 Open to Software Engineer, Full Stack Developer, Open Source, and Internship opportunities.
 
-🎯 Strong interest in n8n automation, Full Stack Engineering, Developer Tools, Cloud Native Technologies, and Open Source Infrastructure.
-
-🏆 I enjoy shipping features, fixing bugs, improving documentation, and helping communities grow.
+🎯 Interested in Developer Tools, AWS, Cloud Technologies, Automation, and Open Source Infrastructure.
 
 ♟️ [Chess Player](https://www.chess.com/member/bittubarnwal7479) • Problem Solver • Continuous Learner
 
 📚 B.Tech in Computer Science & Engineering
 
-📫 Email: **[kumarbittuu26@gmail.com](mailto:kumarbittuu26@gmail.com)**
+📫 **Email:** [kumarbittuu26@gmail.com](mailto:kumarbittuu26@gmail.com)
 
 ---
 
-## 🚀 Featured Projects
+## 🌍 Open Source Contributions
 
-### ☀️ Solar Customer Portal
+* Contributed to projects including The Palisadoes Foundation, hatchet-dev, npmx, TresJS, and Light-Heart-Labs.
+* Worked on bug fixes, feature development, documentation improvements, and developer experience enhancements.
+* Actively participating in open-source communities and helping projects grow.
 
-Built customer-facing dashboards and UI components using React and Material UI for solar energy management and analytics.
+---
 
-### 🌍 Open Source Contributions
+## 🚀 GitHub Journey
 
-Contributed to multiple projects by fixing issues, implementing features, improving documentation, and enhancing developer experience.
+My open-source journey started on a previous GitHub account that is currently inaccessible due to 2FA issues.
+
+While I actively contribute through this account now, my earlier contributions and projects can still be viewed here:
+
+👉 https://github.com/Bittukr7479
 
 ---
 
 ## 🔭 Current Focus
 
 * Open Source Contributions
-* Building Software
 * Full Stack Development
-* Cloud Native Technologies
-* Amazon web service
+* AWS & Cloud Technologies
 * Developer Tooling
+* Building Useful Software
 
 ---
 
-## 🚀 Previous GitHub Journey
+## 🛠️ Tech Stack
 
-I previously contributed using another GitHub account that is currently inaccessible due to 2FA issues.
-
-It still reflects my earlier open-source contributions and learning journey:
-
-👉 https://github.com/Bittukr7479
-
----
-
-## 🛠️ Frontend Technologies
+### Frontend
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,materialui,tailwind,bootstrap" />
 </p>
 
----
-
-## ⚙️ Backend & Databases
+### Backend, Databases & Cloud
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,python,django" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,python,django,aws" />
 </p>
 
----
-
-## 🔧 Tools & Platforms
+### Tools & Platforms
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm,docker" />
@@ -112,9 +100,9 @@ It still reflects my earlier open-source contributions and learning journey:
 <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=BittuBarnwal7479&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=BittuBarnwal7479&layout=compact&theme=react&border_radius=10" />
-</p>
+</p> -->
 
 ---
 
@@ -128,25 +116,10 @@ It still reflects my earlier open-source contributions and learning journey:
 
 ## ☕ Support My Open Source Work
 
-I actively contribute to open-source projects by building features, fixing bugs, improving documentation, and helping developer communities grow.
-
 If my contributions or projects have helped you, consider supporting my work:
 
-🔗 Ko-fi: https://ko-fi.com/bittubarnwal7479
-
-Your support helps me:
-
-* 🚀 Contribute more to Open Source
-* 📚 Learn New Technologies
-* 🛠️ Build Useful Developer Tools
-* 🤝 Support Developer Communities
+**Ko-fi:** https://ko-fi.com/bittubarnwal7479
 
 ---
 
-<h2 align="center">🚀 Building • Learning • Contributing</h2>
-
-<h3 align="center">Thanks for visiting my profile ❤️</h3>
-
-<p align="center">
-Let's build something amazing together.
-</p>
+<h3 align="center">🚀 Building • Learning • Contributing</h3>
