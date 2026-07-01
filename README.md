@@ -60,16 +60,6 @@ While I actively contribute through this account now, my earlier contributions a
 
 ---
 
-## 🔭 Current Focus
-
-* Open Source Contributions
-* Full Stack Development
-* AWS & Cloud Technologies
-* Developer Tooling
-* Building Useful Software
-
----
-
 ## 🛠️ Tech Stack
 
 ### Frontend
