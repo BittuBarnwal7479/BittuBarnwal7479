@@ -36,14 +36,6 @@ I've contributed to numerous open-source projects, including:
 - Screenpipe
 - and many more...
 
-My contributions include:
-
-- ✨ Feature development
-- 🐞 Bug fixes
-- 📚 Documentation improvements
-- ⚡ Developer experience enhancements
-- 🧪 Testing and maintenance
-
 ---
 
 ## 🚀 GitHub Journey
