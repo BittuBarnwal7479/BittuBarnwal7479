@@ -2,16 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Bittu Kumar</h1>
 
-<h3 align="center">
-Full Stack Developer • Open Source Contributor • Cloud Enthusiast
-</h3>
-
 <p align="center">
 Building scalable applications, contributing to open source, and solving real-world engineering problems.
-</p>
-
-<p align="center">
-Open to Software Engineer • Full-Time • Internship • Open Source Opportunities
 </p>
 
 <p align="center"><a href="https://github.com/sponsors/BittuBarnwal7479"><img src="https://img.shields.io/badge/Sponsor%20on-GitHub-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors"></a>&nbsp;&nbsp;<a href="https://ko-fi.com/bittubarnwal7479"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi"></a></p>
