@@ -23,21 +23,6 @@ Building scalable applications, contributing to open source, and solving real-wo
 
 ---
 
-## 🌍 Open Source
-
-I've contributed to numerous open-source projects, including:
-
-- The Palisadoes Foundation
-- Hatchet
-- npmx
-- TresJS
-- Light-Heart-Labs
-- pdfme
-- Screenpipe
-- and many more...
-
----
-
 ## 🚀 GitHub Journey
 
 My open-source journey began on a previous GitHub account that became inaccessible due to a 2FA issue.
