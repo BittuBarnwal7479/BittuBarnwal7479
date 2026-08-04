@@ -12,7 +12,6 @@ Building scalable applications, contributing to open source, and solving real-wo
 
 ## 👨‍💻 About Me
 
-- 🚀 Full Stack Developer passionate about building scalable, user-friendly applications.
 - 🌱 Active Open Source Contributor contributing to projects across developer tools, web technologies, and cloud infrastructure.
 - 💼 Interested in Software Engineering, Full Stack Development, Developer Tools, Cloud, and Open Source.
 - 🤝 Open to Full-Time, Internship, Contract, and Open Source opportunities.
